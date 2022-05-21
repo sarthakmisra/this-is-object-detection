@@ -1,0 +1,12 @@
+a {
+    font-size: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+h1 {
+    background-color: grey;
+    color: white;
+    width:300px;
+    border-radius: 20px;
+    font-family: fantasy;
+}
